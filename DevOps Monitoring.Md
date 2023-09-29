@@ -1,7 +1,6 @@
 # How DevOps Monitoring Works: Concepts, Types & Best Practices
 
-
-![DevOps Monitoring](image.jpg)
+![DevOps Monitoring](image-1.png)
 
 Types of Monitoring in DevOps
 •	Infrastructure monitoring.
