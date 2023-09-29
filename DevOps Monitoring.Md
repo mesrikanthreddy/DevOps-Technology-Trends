@@ -1,8 +1,9 @@
 # How DevOps Monitoring Works: Concepts, Types & Best Practices
-
 ![DevOps Monitoring](image-1.png)
 
-Types of Monitoring in DevOps
+DevOps monitoring is a critical aspect of the DevOps methodology, which emphasizes collaboration and integration between development and IT operations teams to automate and streamline the software development and delivery process. Monitoring in DevOps is all about gaining visibility into the performance and health of applications, infrastructure, and the entire delivery pipeline. It helps ensure that software applications are running smoothly, errors are detected early, and performance bottlenecks are identified and addressed promptly.
+
+**Types of Monitoring in DevOps**
 •	Infrastructure monitoring.
 •	Application monitoring.
 •	Network monitoring.
