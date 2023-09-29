@@ -12,18 +12,68 @@ DevOps monitoring is a critical aspect of the DevOps methodology, which emphasiz
 **Infrastructure monitoring**
 Infrastructure monitoring tools are software applications or platforms designed to track and manage an organization's IT infrastructure's performance, availability, and health, including servers, networks, databases, and applications. These tools ensure that IT systems run smoothly and can help identify and resolve issues before they impact the business. Here are some popular infrastructure monitoring tools:
 1.	**Nagios**: Nagios is a widely used open-source monitoring system that can monitor hosts, services, and network devices. It provides alerts and notifications when problems are detected and supports a wide range of plugins for extensibility.
+
+   [Nagios Official Website](https://www.nagios.org/)
+
+   [GitHub Source Code](https://github.com/NagiosEnterprises/nagioscore.git)
+
 2.	**Zabbix**: Zabbix is an open-source monitoring solution that can monitor various aspects of your infrastructure, including network, servers, cloud services, and applications. It offers customizable alerting and visualization features.
+
+   [Zabbix Official Website](https://www.zabbix.com/)
+
+   [GitHub Source Code](https://github.com/zabbix/zabbix.git)
+
 3.	**Prometheus**: Prometheus is an open-source monitoring and alerting toolkit for reliability and scalability. It is particularly well-suited for dynamic environments like cloud-based infrastructure and microservices.
+
+   [Prometheus Offiical website](https://prometheus.io/)
+
+   [Github Source Code](https://github.com/prometheus/prometheus.git)
+
 4.	**Grafana**: Grafana is a popular open-source platform for monitoring and observability. While it's not a monitoring tool, it's often used with tools like Prometheus, InfluxDB, and Elasticsearch to create powerful, customizable dashboards.
+
+   [Grafana Official website](https://grafana.com/)
+
+   [GitHub Source Code](https://github.com/grafana/grafana)
+
 5.	**Datadog**: Datadog is a cloud-based monitoring and analytics platform that provides real-time insights into the performance of your infrastructure, applications, and services. It supports various integrations and offers machine learning-based anomaly detection.
+
+   [Datadog official website(https://www.datadoghq.com/)
+
 6.	**New Relic**: New Relic is a SaaS-based monitoring and analytics platform focusing on application performance monitoring (APM) and observability. It helps you track the performance of web applications and services.
+
+   [New Relic Official Website](https://newrelic.com/)
+
 7.	**Splunk**: Splunk is known for its log management and analysis capabilities. It can monitor and troubleshoot infrastructure issues by collecting and analyzing log data from various sources.
+
+   [Splunk offiical website](https://www.splunk.com/)
+
 8.	**SolarWinds**: SolarWinds offers a suite of IT management and monitoring tools, including Network Performance Monitor (NPM) and Server & Application Monitor (SAM), designed for network and server monitoring.
+
+   [Solar Official Website](https://www.solarwinds.com/)
+
 9.	**Dynatrace**: Dynatrace is an AI-driven application performance management (APM) platform that provides end-to-end visibility into applications, microservices, and cloud infrastructure performance.
+
+   [Dynatrace Official Website](https://www.dynatrace.com/)
+
 10.	**AppDynamics**: AppDynamics is an APM and observability solution that monitors application performance and provides insights into user experiences and business impact.
+
+   [AppDynamics Offical Website](https://www.appdynamics.com/)
+
 11.	**PRTG Network Monitor**: PRTG is a network monitoring tool that monitors servers, virtual machines, and network devices. It offers a user-friendly web interface and customizable dashboards.
+
+   [PRTG Official Netwrok](https://www.logicmonitor.com/)
+
 12.	**Icinga**: Icinga is an open-source monitoring solution that forked from Nagios. It offers a more modern and flexible approach to infrastructure monitoring with support for plugins and extensions.
+
+   [Icinga Official Website](https://icinga.com/)
+
+   [Github Source Code](https://github.com/Icinga)
+
 13.	**Zenoss**: Zenoss is an open-source monitoring platform that provides unified monitoring for networks, servers, applications, and cloud infrastructure. It includes features for event management and reporting.
+   
+   [Zenoss Official Website](https://www.zenoss.com/)
+
+   [GitHub Source Code](https://github.com/zenoss)
 
 **Application Performance Monitoring**:
 Software plays a vital role in every operation in today's business landscape. Ensuring that your organization's mission-critical applications run smoothly is essential. Various application performance management (APM) and monitoring tools are available to achieve this. However, there can be some uncertainty regarding what APM is and who benefits from it within a company. This article aims to clarify the definition of APM, offer advice on selecting the right tool, and provide a list of the top APM tools and their features.
@@ -100,7 +150,6 @@ Open Source APM Tools:
 
    [GitHub Source Code](https://github.com/pinpoint-apm/pinpoint)
 
-
 Remember that the choice of APM tool depends on your specific requirements, such as the technology stack you use, the scale of your applications, and your budget. Additionally, new tools may have emerged since my last update, so it's a good idea to research the latest options and evaluate them based on your organization's needs.
 
 Selecting the proper infrastructure and application monitoring tool for your organization is a critical decision that can impact your IT environment's performance, reliability, and security. Here are some factors to consider when choosing the most suitable tool:
@@ -161,7 +210,6 @@ Selecting the proper infrastructure and application monitoring tool for your org
 
 By carefully evaluating these factors and involving key stakeholders in decision-making, you can select the proper infrastructure and application monitoring tool that aligns with your organization's objectives and requirements.
 Once you've evaluated APM tools based on these criteria, you'll be better equipped to make an informed decision that aligns with your organization's needs and goals. It's often helpful to involve key IT, development, and operations team stakeholders in the selection process to ensure that the chosen tool meets everyone's requirements.
-
 
 
 **If your organization is huge, consider building your own APM tool and keep it closed source to make things more private**.
@@ -237,33 +285,72 @@ Network monitoring tools are software or hardware solutions used by IT professio
 
 1. **Wireshark**: Wireshark is a widely used open-source network protocol analyzer. It captures and displays the data traveling back and forth on a network in real-time, making it a valuable tool for troubleshooting network issues and analyzing network traffic.
 
+   [Wireshark Official Network](https://www.wireshark.org/)
+
+   [GitHub Open Source Code](https://github.com/wireshark/wireshark)
+
 2. **Nagios**: Nagios is an open-source monitoring system that can monitor hosts, services, and network devices. It provides alerts when it detects problems and can be extended with plugins for additional functionality.
+
+   [Nagios Official Website](https://www.nagios.org/)
+
+   [GitHub Source Code](https://github.com/NagiosEnterprises/nagioscore.git)
+
 
 3. **Zabbix**: Zabbix is an open-source monitoring solution that offers real-time monitoring, alerting, and visualization of network and application performance. It supports a wide range of monitoring options and has a user-friendly interface.
 
+   [Zabbix Official Website](https://www.zabbix.com/)
+
+   [GitHub Source Code](https://github.com/zabbix/zabbix.git)
+
 4. **PRTG Network Monitor**: PRTG is a comprehensive network monitoring tool with a user-friendly web interface. It can monitor a variety of network devices and services, providing real-time data and historical reports.
+
+   [PRTG Official Netwrok](https://www.logicmonitor.com/)
 
 5. **SolarWinds Network Performance Monitor (NPM)**: SolarWinds NPM is a commercial network monitoring tool that offers robust features for performance monitoring and troubleshooting. It provides deep insights into network traffic and device performance.
 
+   [Solar Official Website](https://www.solarwinds.com/)
+
 6. **Cacti**: Cacti is an open-source network graphing solution that specializes in creating graphs and visual representations of network data. It is often used alongside other monitoring tools for data visualization.
+
+   [Cacti Official Website](https://www.cacti.net/)
 
 7. **Prometheus**: Prometheus is an open-source monitoring and alerting toolkit designed for reliability and scalability. It is well-suited for dynamic and cloud-native environments and integrates with various data sources.
 
+   [Prometheus Offiical website](https://prometheus.io/)
+
+   [Github Source Code](https://github.com/prometheus/prometheus.git)
+
 8. **Splunk**: Splunk is a popular data analytics and visualization platform that can be used for network monitoring. It ingests and analyzes data from various sources, making it valuable for security and performance monitoring.
+
+   [Splunk offiical website](https://www.splunk.com/)
 
 9. **Cisco Prime Infrastructure**: If you have Cisco networking equipment, Cisco Prime Infrastructure is a comprehensive solution for managing and monitoring Cisco networks. It offers network performance and device management features.
 
 10. **Observium**: Observium is an open-source network monitoring platform that specializes in automatic network discovery and monitoring of network devices. It provides detailed insights into device performance and network health.
 
+   [Observium Official Website](https://www.observium.org/)
+
 11. **Ntopng**: Ntopng is an open-source traffic analysis tool that provides detailed insights into network traffic patterns and usage. It can be used for monitoring bandwidth usage and network performance.
+
+   [Ntopng Official Website](https://www.ntop.org/)
 
 12. **ManageEngine OpManager**: OpManager is a commercial network monitoring tool that offers network and server monitoring capabilities. It provides real-time performance data and alerts.
 
+   [ManageEngine Official Website](https://www.manageengine.com/)
+
 13. **NetFlow Analyzer**: This tool specializes in analyzing NetFlow data, which is used for network traffic analysis and bandwidth monitoring. It helps in identifying network anomalies and optimizing traffic.
+
+   [NetFlow Official Website](https://www.manageengine.com/)
 
 14. **OpenNMS**: OpenNMS is an open-source enterprise-grade network management and monitoring platform. It offers features like fault management, performance measurement, and event and notification handling.
 
+   [OpenNMS Official Website](https://www.opennms.com/)
+
 15. **Zenoss**: Zenoss is an open-source monitoring platform that provides real-time visibility into network and infrastructure performance. It supports hybrid and multi-cloud environments.
+
+   [Zenoss Official Website](https://www.zenoss.com/)
+
+   [GitHub Source Code](https://github.com/zenoss)
 
 The choice of network monitoring tool depends on factors such as the size of the network, budget, specific monitoring requirements, and personal preferences. Many organizations use a combination of tools to cover various aspects of network monitoring and management.
 
