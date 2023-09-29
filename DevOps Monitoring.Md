@@ -147,70 +147,70 @@ Once you've evaluated APM tools based on these criteria, you'll be better equipp
 
 Building an in-house Application Performance Monitoring (APM) tool can be complex and resource-intensive. Still, it can also provide a customized solution tailored to your needs. Here's a high-level overview of the steps involved in building an in-house APM tool:
 
-1. Define Your Requirements:
+1. **Define Your Requirements**:
 •	Clearly define your APM tool's objectives, such as monitoring application performance, tracking user experience, and identifying bottlenecks.
 •	Specify the technologies and platforms your APM tool should support.
 
-2. Gather a Team:
+2. **Gather a Team**:
 •	Assemble a team of skilled software developers, data engineers, and DevOps professionals with expertise in monitoring and analytics.
 
-3. Data Collection:
+3. **Data Collection**:
 •	Implement data collection mechanisms to gather performance data from your applications. This can include metrics like response times, error rates, and resource utilization.
-4. Instrumentation:
+4. **Instrumentation**:
 •	Instrument your applications to collect detailed performance data. This may involve adding code or using APM agents for supported languages and frameworks.
 
-5. Data Storage:
+5. **Data Storage**:
 •	Choose a database or storage solution to store the collected performance data. Depending on your needs and scale, options include relational databases, NoSQL databases, or data lakes.
 
-6. Data Processing and Analysis:
+6. **Data Processing and Analysis**:
 •	Develop data processing pipelines to clean, transform, and analyze the collected data. This may involve using tools like Apache Kafka, Apache Spark, or custom scripts.
 
-7. Alerting and Notification:
+7. **Alerting and Notification**:
 •	Implement alerting mechanisms to notify your team when performance thresholds are breached. You can use open-source tools like Prometheus and Grafana or build custom alerting logic.
 
-8. Visualization:
+8. **Visualization**:
 •	Create dashboards and visualizations to make performance data easily understandable. Tools like Grafana, Kibana, or custom-built frontends can be used for this purpose.
 
-9. User Experience Monitoring:
+9. **User Experience Monitoring**:
 •	Implement user experience monitoring to track how end-users perceive application performance. This can include Real User Monitoring (RUM) and Synthetic Monitoring.
 
-10. Correlation and Root Cause Analysis:
+10. **Correlation and Root Cause Analysis**:
 •	Develop algorithms or use machine learning models to correlate performance data and identify root causes of performance issues.
 
-11. Security and Compliance:
+11. **Security and Compliance**:
 •	Ensure your APM tool complies with security and privacy regulations, primarily if it collects sensitive data.
 
-12. Scalability and High Availability:
+12. **Scalability and High Availability**:
 •	Design your APM tool to be scalable and highly available to handle increasing data volumes and ensure uptime.
 
 
-13. Testing and Quality Assurance:
+13. **Testing and Quality Assurance**:
 •	Thoroughly test your APM tool to identify and resolve any bugs or performance bottlenecks.
 
-14. Documentation and Training:
+14. **Documentation and Training**:
 •	Create comprehensive documentation for your APM tool, including usage guides for your team.
 
-15. Deployment and Maintenance:
+15. **Deployment and Maintenance**:
 •	Deploy your APM tool in your production environment and establish a maintenance plan to keep it up-to-date and responsive to changing needs.
 
-16. Feedback and Iteration:
+16. **Feedback and Iteration**:
 •	Gather feedback from users and stakeholders and iterate on your APM tool to improve its functionality and usability.
 
-17. Monitoring the APM Tool Itself:
+17. **Monitoring the APM Tool Itself**:
 •	Remember to monitor the performance of your APM tool itself to ensure it doesn't become a performance bottleneck.
 
-18. Security and Access Control:
+18. **Security and Access Control**:
 •	Implement robust security measures and access controls to protect the data collected and ensure only authorized users can access the APM tool.
 
-19. Compliance and Logging:
+19. **Compliance and Logging**:
 •	Consider compliance requirements (e.g., GDPR) and ensure appropriate logging and auditing are in place.
 
-20. Support and Training:
+20. **Support and Training**:
 •	Provide ongoing support for your APM tool and training for users and administrators.
 
 Building an in-house APM tool is a substantial undertaking that requires careful planning and ongoing maintenance. You should also consider using existing APM solutions if they meet your needs, as they can save time and resources compared to building your tool from scratch.
 
-### Cost Monitoring
+**Cost Monitoring**:
 Cost monitoring tools are software solutions or platforms designed to help businesses and individuals track and manage their expenses and financial resources more effectively. These tools are essential for budgeting, financial planning, and ensuring expenditures stay within predefined limits. Here are some common types of cost-monitoring tools:
 
 1. **Spreadsheets**: Traditional spreadsheet software like Microsoft Excel or Google Sheets can be used for essential cost monitoring. Users can create custom templates to record and track expenses, income, and budgets.
@@ -221,18 +221,18 @@ Cost monitoring tools are software solutions or platforms designed to help busin
 
 4. **Budgeting Software**: Tools like Quicken and Personal Capital help individuals and families create and maintain budgets. They provide insights into spending habits and allow users to set financial goals.
 
-5. Enterprise Resource Planning (ERP) Systems: Large organizations often use ERP systems like SAP, Oracle, or Microsoft Dynamics, which include modules for cost monitoring and financial management, among many other functions.
+5. **Enterprise Resource Planning (ERP) Systems**: Large organizations often use ERP systems like SAP, Oracle, or Microsoft Dynamics, which include modules for cost monitoring and financial management, among many other functions.
 
-6. Project Management Software:  Some project management tools like Trello, Asana, or Monday.com have budget tracking features that help project managers monitor specific project or task expenses.
+6. **Project Management Software**:  Some project management tools like Trello, Asana, or Monday.com have budget tracking features that help project managers monitor specific project or task expenses.
 
-7. Cloud-Based Financial Management Systems: Solutions like NetSuite or Intacct offer cloud-based financial management with expense tracking, financial reporting, and budgeting capabilities.
+7. **Cloud-Based Financial Management Systems**: Solutions like NetSuite or Intacct offer cloud-based financial management with expense tracking, financial reporting, and budgeting capabilities.
 
-8. Business Intelligence (BI) Tools: BI tools like Tableau, Power BI, or QlikView can help organizations analyze financial data and track expenses through interactive dashboards and reports.
+8. **Business Intelligence (BI) Tools**: BI tools like Tableau, Power BI, or QlikView can help organizations analyze financial data and track expenses through interactive dashboards and reports.
 
-9. Expense Management Software:  These tools are designed to manage employee expenses in a business setting. Examples include Certify, Concur, and Rydoo.
+9. **Expense Management Software**:  These tools are designed to manage employee expenses in a business setting. Examples include Certify, Concur, and Rydoo.
 
-10. Banking and Financial Institution Tools:  Many banks and financial institutions provide their customers with online banking tools that allow them to monitor their accounts, view transaction histories, and categorize expenses.
+10. **Banking and Financial Institution Tools**:  Many banks and financial institutions provide their customers with online banking tools that allow them to monitor their accounts, view transaction histories, and categorize expenses.
 
-11. Custom Software Solutions:  Some businesses develop custom cost monitoring tools tailored to their needs and workflows. These can be built in-house or by third-party developers.
+11. **Custom Software Solutions**:  Some businesses develop custom cost monitoring tools tailored to their needs and workflows. These can be built in-house or by third-party developers.
 
 ### When selecting a cost monitoring tool, it's essential to consider factors such as the complexity of your financial needs, the size of your organization, and your budget. Additionally, ensure that the tool aligns with your data security and compliance requirements, as financial data is sensitive and must be protected.
