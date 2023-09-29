@@ -1,4 +1,8 @@
 # How DevOps Monitoring Works: Concepts, Types & Best Practices
+
+
+![DevOps Monitoring](image.jpg)
+
 Types of Monitoring in DevOps
 •	Infrastructure monitoring.
 •	Application monitoring.
@@ -226,6 +230,43 @@ Building an in-house Application Performance Monitoring (APM) tool can be comple
 •	Provide ongoing support for your APM tool and training for users and administrators.
 
 Building an in-house APM tool is a substantial undertaking that requires careful planning and ongoing maintenance. You should also consider using existing APM solutions if they meet your needs, as they can save time and resources compared to building your tool from scratch.
+
+**Network monitoring**
+
+Network monitoring tools are software or hardware solutions used by IT professionals and network administrators to oversee and manage the performance and security of computer networks. These tools help detect and diagnose network issues, optimize network performance, and ensure the availability and reliability of network services. Here are some popular network monitoring tools:
+
+1. **Wireshark**: Wireshark is a widely used open-source network protocol analyzer. It captures and displays the data traveling back and forth on a network in real-time, making it a valuable tool for troubleshooting network issues and analyzing network traffic.
+
+2. **Nagios**: Nagios is an open-source monitoring system that can monitor hosts, services, and network devices. It provides alerts when it detects problems and can be extended with plugins for additional functionality.
+
+3. **Zabbix**: Zabbix is an open-source monitoring solution that offers real-time monitoring, alerting, and visualization of network and application performance. It supports a wide range of monitoring options and has a user-friendly interface.
+
+4. **PRTG Network Monitor**: PRTG is a comprehensive network monitoring tool with a user-friendly web interface. It can monitor a variety of network devices and services, providing real-time data and historical reports.
+
+5. **SolarWinds Network Performance Monitor (NPM)**: SolarWinds NPM is a commercial network monitoring tool that offers robust features for performance monitoring and troubleshooting. It provides deep insights into network traffic and device performance.
+
+6. **Cacti**: Cacti is an open-source network graphing solution that specializes in creating graphs and visual representations of network data. It is often used alongside other monitoring tools for data visualization.
+
+7. **Prometheus**: Prometheus is an open-source monitoring and alerting toolkit designed for reliability and scalability. It is well-suited for dynamic and cloud-native environments and integrates with various data sources.
+
+8. **Splunk**: Splunk is a popular data analytics and visualization platform that can be used for network monitoring. It ingests and analyzes data from various sources, making it valuable for security and performance monitoring.
+
+9. **Cisco Prime Infrastructure**: If you have Cisco networking equipment, Cisco Prime Infrastructure is a comprehensive solution for managing and monitoring Cisco networks. It offers network performance and device management features.
+
+10. **Observium**: Observium is an open-source network monitoring platform that specializes in automatic network discovery and monitoring of network devices. It provides detailed insights into device performance and network health.
+
+11. **Ntopng**: Ntopng is an open-source traffic analysis tool that provides detailed insights into network traffic patterns and usage. It can be used for monitoring bandwidth usage and network performance.
+
+12. **ManageEngine OpManager**: OpManager is a commercial network monitoring tool that offers network and server monitoring capabilities. It provides real-time performance data and alerts.
+
+13. **NetFlow Analyzer**: This tool specializes in analyzing NetFlow data, which is used for network traffic analysis and bandwidth monitoring. It helps in identifying network anomalies and optimizing traffic.
+
+14. **OpenNMS**: OpenNMS is an open-source enterprise-grade network management and monitoring platform. It offers features like fault management, performance measurement, and event and notification handling.
+
+15. **Zenoss**: Zenoss is an open-source monitoring platform that provides real-time visibility into network and infrastructure performance. It supports hybrid and multi-cloud environments.
+
+The choice of network monitoring tool depends on factors such as the size of the network, budget, specific monitoring requirements, and personal preferences. Many organizations use a combination of tools to cover various aspects of network monitoring and management.
+
 
 **Cost Monitoring**:
 Cost monitoring tools are software solutions or platforms designed to help businesses and individuals track and manage their expenses and financial resources more effectively. These tools are essential for budgeting, financial planning, and ensuring expenditures stay within predefined limits. Here are some common types of cost-monitoring tools:
