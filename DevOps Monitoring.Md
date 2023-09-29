@@ -41,7 +41,7 @@ Several excellent APM (Application Performance Monitoring) tools were available 
 Enterprise APM Tools:
 1. **New Relic**: New Relic is a widely used APM tool that provides real-time performance monitoring, error tracking, and infrastructure monitoring. It supports a wide range of programming languages and frameworks.
 
-[More info@]https://newrelic.com/
+[New Relic](https://newrelic.com/)
 
 2. **Dynatrace**: Dynatrace is known for its AI-powered APM capabilities. It provides deep insights into application performance and offers automated root-cause analysis.
 
