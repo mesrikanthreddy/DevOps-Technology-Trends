@@ -40,42 +40,52 @@ Components of a complete application performance management solution:
 Several excellent APM (Application Performance Monitoring) tools were available as enterprise solutions and open source. Please note that the landscape of APM tools is constantly evolving, so it's essential to check for the most up-to-date information. Here are some of the best APM tools from that time:
 Enterprise APM Tools:
 1. **New Relic**: New Relic is a widely used APM tool that provides real-time performance monitoring, error tracking, and infrastructure monitoring. It supports a wide range of programming languages and frameworks.
+
 For more information: https://newrelic.com/
 
 2. **Dynatrace**: Dynatrace is known for its AI-powered APM capabilities. It provides deep insights into application performance and offers automated root-cause analysis.
+
 For more information: https://www.dynatrace.com/
 
 3. **AppDynamics**: AppDynamics offers real-time monitoring and analytics for application performance. It provides visibility into the entire application stack, including code-level diagnostics.
+
 For more information: https://www.appdynamics.com/
 
 4. **Datadog**: Datadog is a cloud-based monitoring platform offering APM as one feature. It provides end-to-end visibility into the performance of applications and infrastructure.
 For more information: https://www.datadoghq.com/
 
 5. **Splunk**: Splunk is a versatile platform that can be used for APM and log management. It helps organizations gain insights into application performance through its APM and analytics features.
+
 For more information: https://www.splunk.com/
 
 Open Source APM Tools:
 1. **Prometheus**: Prometheus is an open-source monitoring and alerting toolkit for reliability and scalability. It's trendy for containerized environments and integrates well with Grafana for visualization.
+
 For more information: https://prometheus.io/
 
 2. **Grafana**: While Grafana is primarily a visualization and monitoring platform, it can be combined with other tools like Prometheus, Influx DB, and Elasticsearch to create robust APM solutions.
+
 For more information: https://grafana.com/
 GitHub Code Link: https://github.com/grafana/grafana
 
 3. **Zipkin**: Zipkin is an open-source distributed tracing system that helps track requests as they travel through a distributed system. It's beneficial for microservices architectures.
+
 For more information: https://zipkin.io/
 GitHub Code Link: https://github.com/openzipkin/zipkin
 
 
 4. **Jaeger**: Jaeger is another open-source distributed tracing system gaining popularity for monitoring and troubleshooting microservices applications.
+
 For more information: https://www.jaegertracing.io
 GitHub Code Link: https://github.com/jaegertracing/jaeger
 
 5. **OpenTelemetry**:  OpenTelemetry is a set of APIs, libraries, agents, and instrumentation to provide application observability. It's vendor-agnostic and supports multiple programming languages.
+
 For more information: https://opentelemetry.io/
 GitHub Code Link: https://github.com/open-telemetry
 
 6. **Pinpoint**: Pinpoint is an open-source APM tool for Java applications. It provides detailed insights into the performance of Java-based applications.
+
 For more information: https://pinpoint-apm.gitbook.io/
 GitHub Code Link: https://github.com/pinpoint-apm/pinpoint
 
@@ -235,4 +245,5 @@ Cost monitoring tools are software solutions or platforms designed to help busin
 
 11. **Custom Software Solutions**:  Some businesses develop custom cost monitoring tools tailored to their needs and workflows. These can be built in-house or by third-party developers.
 
-### When selecting a cost monitoring tool, it's essential to consider factors such as the complexity of your financial needs, the size of your organization, and your budget. Additionally, ensure that the tool aligns with your data security and compliance requirements, as financial data is sensitive and must be protected.
+
+**When selecting a cost monitoring tool, it's essential to consider factors such as the complexity of your financial needs, the size of your organization, and your budget. Additionally, ensure that the tool aligns with your data security and compliance requirements, as financial data is sensitive and must be protected**.
