@@ -1,14 +1,12 @@
 ### How DevOps Monitoring Works: Concepts, Types & Best Practices
-
 Types of Monitoring in DevOps
 •	Infrastructure monitoring.
 •	Application monitoring.
 •	Network monitoring.
 •	Cost monitoring.
 
-Infrastructure monitoring:
+### Infrastructure monitoring:
 Infrastructure monitoring tools are software applications or platforms designed to track and manage an organization's IT infrastructure's performance, availability, and health, including servers, networks, databases, and applications. These tools ensure that IT systems run smoothly and can help identify and resolve issues before they impact the business. Here are some popular infrastructure monitoring tools:
-
 1.	Nagios: Nagios is a widely used open-source monitoring system that can monitor hosts, services, and network devices. It provides alerts and notifications when problems are detected and supports a wide range of plugins for extensibility.
 2.	Zabbix: Zabbix is an open-source monitoring solution that can monitor various aspects of your infrastructure, including network, servers, cloud services, and applications. It offers customizable alerting and visualization features.
 3.	Prometheus: Prometheus is an open-source monitoring and alerting toolkit for reliability and scalability. It is particularly well-suited for dynamic environments like cloud-based infrastructure and microservices.
@@ -23,7 +21,7 @@ Infrastructure monitoring tools are software applications or platforms designed 
 12.	Icinga: Icinga is an open-source monitoring solution that forked from Nagios. It offers a more modern and flexible approach to infrastructure monitoring with support for plugins and extensions.
 13.	Zenoss: Zenoss is an open-source monitoring platform that provides unified monitoring for networks, servers, applications, and cloud infrastructure. It includes features for event management and reporting.
 
-Application Performance Monitoring:
+### Application Performance Monitoring:
 Software plays a vital role in every operation in today's business landscape. Ensuring that your organization's mission-critical applications run smoothly is essential. Various application performance management (APM) and monitoring tools are available to achieve this. However, there can be some uncertainty regarding what APM is and who benefits from it within a company. This article aims to clarify the definition of APM, offer advice on selecting the right tool, and provide a list of the top APM tools and their features.
 What is Application Performance Monitoring?
 Various data types must be collected and monitored to manage and keep track of an application's performance effectively. Think of an APM solution as an airplane's black box - it provides valuable insights and ensures that developers clearly understand what's going on. Application monitoring tools are essential to prevent developers from operating unthinkingly.
@@ -40,7 +38,6 @@ Components of a complete application performance management solution:
 •	Real user monitoring
 
 Several excellent APM (Application Performance Monitoring) tools were available as enterprise solutions and open source. Please note that the landscape of APM tools is constantly evolving, so it's essential to check for the most up-to-date information. Here are some of the best APM tools from that time:
-
 Enterprise APM Tools:
 1. New Relic: New Relic is a widely used APM tool that provides real-time performance monitoring, error tracking, and infrastructure monitoring. It supports a wide range of programming languages and frameworks.
 For more information: https://newrelic.com/
@@ -146,10 +143,7 @@ Once you've evaluated APM tools based on these criteria, you'll be better equipp
 
 
 
-
-
-If your organization is huge, consider building your own APM tool and keep it closed source to make things more private.
-
+### If your organization is huge, consider building your own APM tool and keep it closed source to make things more private.
 Building an in-house Application Performance Monitoring (APM) tool can be complex and resource-intensive. Still, it can also provide a customized solution tailored to your needs. Here's a high-level overview of the steps involved in building an in-house APM tool:
 
 1. Define Your Requirements:
@@ -158,9 +152,6 @@ Building an in-house Application Performance Monitoring (APM) tool can be comple
 
 2. Gather a Team:
 •	Assemble a team of skilled software developers, data engineers, and DevOps professionals with expertise in monitoring and analytics.
-
-
-
 
 3. Data Collection:
 •	Implement data collection mechanisms to gather performance data from your applications. This can include metrics like response times, error rates, and resource utilization.
@@ -195,8 +186,6 @@ Building an in-house Application Performance Monitoring (APM) tool can be comple
 13. Testing and Quality Assurance:
 •	Thoroughly test your APM tool to identify and resolve any bugs or performance bottlenecks.
 
-
-
 14. Documentation and Training:
 •	Create comprehensive documentation for your APM tool, including usage guides for your team.
 
@@ -220,11 +209,7 @@ Building an in-house Application Performance Monitoring (APM) tool can be comple
 
 Building an in-house APM tool is a substantial undertaking that requires careful planning and ongoing maintenance. You should also consider using existing APM solutions if they meet your needs, as they can save time and resources compared to building your tool from scratch.
 
-
-
-
-
-
+### Cost Monitoring
 Cost monitoring tools are software solutions or platforms designed to help businesses and individuals track and manage their expenses and financial resources more effectively. These tools are essential for budgeting, financial planning, and ensuring expenditures stay within predefined limits. Here are some common types of cost-monitoring tools:
 
 1. Spreadsheets: Traditional spreadsheet software like Microsoft Excel or Google Sheets can be used for essential cost monitoring. Users can create custom templates to record and track expenses, income, and budgets.
@@ -249,4 +234,4 @@ Cost monitoring tools are software solutions or platforms designed to help busin
 
 11. Custom Software Solutions:  Some businesses develop custom cost monitoring tools tailored to their needs and workflows. These can be built in-house or by third-party developers.
 
-When selecting a cost monitoring tool, it's essential to consider factors such as the complexity of your financial needs, the size of your organization, and your budget. Additionally, ensure that the tool aligns with your data security and compliance requirements, as financial data is sensitive and must be protected.
+### When selecting a cost monitoring tool, it's essential to consider factors such as the complexity of your financial needs, the size of your organization, and your budget. Additionally, ensure that the tool aligns with your data security and compliance requirements, as financial data is sensitive and must be protected.
