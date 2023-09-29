@@ -4,10 +4,10 @@
 DevOps monitoring is a critical aspect of the DevOps methodology, which emphasizes collaboration and integration between development and IT operations teams to automate and streamline the software development and delivery process. Monitoring in DevOps is all about gaining visibility into the performance and health of applications, infrastructure, and the entire delivery pipeline. It helps ensure that software applications are running smoothly, errors are detected early, and performance bottlenecks are identified and addressed promptly.
 
 **Types of Monitoring in DevOps**
-•	Infrastructure monitoring.
-•	Application monitoring.
-•	Network monitoring.
-•	Cost monitoring.
+-  Infrastructure monitoring.
+-  Application monitoring.
+-  Network monitoring.
+-  Cost monitoring.
 
 **Infrastructure monitoring**
 Infrastructure monitoring tools are software applications or platforms designed to track and manage an organization's IT infrastructure's performance, availability, and health, including servers, networks, databases, and applications. These tools ensure that IT systems run smoothly and can help identify and resolve issues before they impact the business. Here are some popular infrastructure monitoring tools:
