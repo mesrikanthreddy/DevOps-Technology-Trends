@@ -37,7 +37,7 @@ Infrastructure monitoring tools are software applications or platforms designed 
 
 5.	**Datadog**: Datadog is a cloud-based monitoring and analytics platform that provides real-time insights into the performance of your infrastructure, applications, and services. It supports various integrations and offers machine learning-based anomaly detection.
 
-   [Datadog official website(https://www.datadoghq.com/)
+   [Datadog official website](https://www.datadoghq.com/)
 
 6.	**New Relic**: New Relic is a SaaS-based monitoring and analytics platform focusing on application performance monitoring (APM) and observability. It helps you track the performance of web applications and services.
 
