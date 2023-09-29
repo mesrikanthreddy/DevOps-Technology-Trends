@@ -10,6 +10,9 @@ DevOps monitoring is a critical aspect of the DevOps methodology, which emphasiz
 -  Cost monitoring.
 
 **Infrastructure monitoring**
+
+![Infra Monitoring](image.png)
+
 Infrastructure monitoring tools are software applications or platforms designed to track and manage an organization's IT infrastructure's performance, availability, and health, including servers, networks, databases, and applications. These tools ensure that IT systems run smoothly and can help identify and resolve issues before they impact the business. Here are some popular infrastructure monitoring tools:
 1.	**Nagios**: Nagios is a widely used open-source monitoring system that can monitor hosts, services, and network devices. It provides alerts and notifications when problems are detected and supports a wide range of plugins for extensibility.
 
